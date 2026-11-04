@@ -1,2 +1,2 @@
 # aigelisim
-30 gün eğitim.
+30 gün eğitim. AI'yı detaylı öğreniyorum.
